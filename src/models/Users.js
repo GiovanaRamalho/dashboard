@@ -21,3 +21,5 @@ const User = mongoose.model(
     { timestamps: true }
   )
 );
+
+export default User;
